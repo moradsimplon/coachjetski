@@ -1,8 +1,4 @@
-/*
- * Start Bootstrap - Full Slider (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
+
 
 html,
 body {
@@ -19,7 +15,7 @@ body {
     height: 100%;
 }
 
-/* Background images are set within the HTML using inline CSS, not here */
+
 
 .fill {
     width: 100%;
@@ -30,7 +26,16 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
-
+.performance{
+  margin: 5% 0%;
+}
+.jetpack{
+  width: 112%;
+  height: 600px;
+}
+.descript>img{
+  margin: 5% 20%;
+}
 footer {
     margin: 50px 0;
 }
