@@ -2,9 +2,12 @@
 
 html,
 body {
+  font-family: 'Satisfy', cursive;
     height: 100%;
 }
-
+.haut{
+  font-size: 1.9rem;
+}
 .carousel,
 .item,
 .active {
@@ -35,6 +38,12 @@ body {
 }
 .descript>img{
   margin: 5% 20%;
+}
+p{
+  font-size: 2rem;
+}
+em{
+  font-weight: bold;
 }
 footer {
     margin: 50px 0;
