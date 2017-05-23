@@ -21,8 +21,11 @@ body {
 .carousel-inner {
     height: 100%;
 }
+@media (min-width:760px) {
+
 audio{
   margin-left: 64%;
+}
 }
 .fill {
     width: 100%;
