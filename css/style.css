@@ -21,9 +21,9 @@ body {
 .carousel-inner {
     height: 100%;
 }
-
-
-
+audio{
+  margin-left: 64%;
+}
 .fill {
     width: 100%;
     height: 100%;
